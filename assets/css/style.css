@@ -1,0 +1,24 @@
+body {
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+
+.warning {
+    font-size: 2rem;
+}
+
+.start {
+    font-size: 1.5rem;
+}
+
+#imageQr img {
+width: 15rem;
+height: auto;
+margin: 1rem;
+}
+
+.win {
+    margin-top: 1rem;
+    font-size: 2rem;
+}
