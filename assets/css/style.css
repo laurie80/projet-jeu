@@ -4,8 +4,12 @@ body {
     background-color: black;
 }
 
+.title {
+    margin: 1.5rem;
+}
+
 .warning {
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 .start {
